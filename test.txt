@@ -1,9 +1,6 @@
 trtrtrte
 
 
-<<<<<<< HEAD
 www.baidu.com
-=======
 
-www.baidu.com
->>>>>>> liu_dev
+qqq
